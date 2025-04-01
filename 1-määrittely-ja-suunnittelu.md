@@ -6,392 +6,248 @@ Mitäs tähän nyt sitte, tarkoitus rakennella pilvessä olevan PERN -stackillä
 
 Mahdollisia käyttäjiä ja hieman heistä jotta ymmärrretään miten käyttö saattaa erota:
 
-1
-Anna – Aktiivinen verkkoshoppailija
+### 1 Anna – Aktiivinen verkkoshoppailija
 
-Ikä: 30 vuotta​
+- Ikä: 30 vuotta​
+- Ammatti: Markkinointikoordinaattori​
+- Tausta: Anna tekee usein verkko-ostoksia kiireisen aikataulunsa vuoksi. Hän arvostaa käyttäjäystävällisiä verkkokauppoja, joissa on laaja tuotevalikoima ja sujuva maksuprosessi.​
 
-Ammatti: Markkinointikoordinaattori​
+#### Tarpeet ja tavoitteet:
+- Nopea ja helppo navigointi tuotteiden välillä.
+- Turvalliset ja monipuoliset maksuvaihtoehdot.
+- Mahdollisuus seurata tilauksia reaaliaikaisesti.
 
-Tausta: Anna tekee usein verkko-ostoksia kiireisen aikataulunsa vuoksi. Hän arvostaa käyttäjäystävällisiä verkkokauppoja, joissa on laaja tuotevalikoima ja sujuva maksuprosessi.​
+#### Haasteet:
+- Löytää luotettavia tuotteita laajasta valikoimasta.
+- Varmistaa, että maksutiedot ovat turvassa.
 
-Tarpeet ja tavoitteet:
+### 2 Mikko – Teknologiasta kiinnostunut ostaja
 
-Nopea ja helppo navigointi tuotteiden välillä.
+- Ikä: 25 vuotta​
+- Ammatti: Ohjelmistokehittäjä​
+- Tausta: Mikko on innokas seuraamaan uusimpia teknologisia trendejä ja ostaa usein elektroniikkaa verkosta. Hän arvostaa yksityiskohtaisia tuotekuvauksia ja asiakasarvioita.​
 
-Turvalliset ja monipuoliset maksuvaihtoehdot.
+#### Tarpeet ja tavoitteet:
+- Pääsy kattaviin tuotetietoihin ja teknisiin spesifikaatioihin.
+- Mahdollisuus lukea ja kirjoittaa tuotearvosteluja.
+- Toimiva hakutoiminto ja suodatusmahdollisuudet.
 
-Mahdollisuus seurata tilauksia reaaliaikaisesti.
+#### Haasteet:
+- Varmistaa tuotteiden laatu ilman fyysistä tarkastelua.
+- Löytää nopeasti haluamansa tuotteet suuresta valikoimasta.
 
-Haasteet:
+### 3 Liisa – Satunnainen verkkokaupan käyttäjä
+- Ikä: 45 vuotta​
+- Ammatti: Opettaja​
+- Tausta: Liisa tekee harvemmin verkko-ostoksia ja arvostaa selkeää opastusta sekä asiakaspalvelun saatavuutta. Hän ostaa pääasiassa vaatteita ja kodintarvikkeita.​
 
-Löytää luotettavia tuotteita laajasta valikoimasta.
+#### Tarpeet ja tavoitteet:
+- Yksinkertainen rekisteröitymis- ja tilausprosessi.
+- Mahdollisuus ottaa helposti yhteyttä asiakaspalveluun.
+- Selkeät palautus- ja toimitusehdot.
 
-Varmistaa, että maksutiedot ovat turvassa.
+#### Haasteet:
+- Epävarmuus verkkokaupan käytöstä ja tietoturvasta.
+- Tarve saada lisätietoa tuotteista ennen ostopäätöstä.
 
-2
-Mikko – Teknologiasta kiinnostunut ostaja
+### 4 Kari – Yrittäjä ja tukkumyyjä
+- Ikä: 38 vuotta​
+- Ammatti: Kauppias​
+- Tausta: Kari ostaa suuria määriä tuotteita yrityksensä tarpeisiin ja arvostaa alennuksia sekä joustavia maksuehtoja.​
 
-Ikä: 25 vuotta​
+#### Tarpeet ja tavoitteet:
+- Mahdollisuus tehdä suurtilauksia helposti.
+- Tiedot tukkuhinnoista ja alennuksista.
+- Kattavat toimitusvaihtoehdot ja aikataulut.
 
-Ammatti: Ohjelmistokehittäjä​
+#### Haasteet:
+- Hallita suuria tilauksia ja varmistaa tuotteiden saatavuus.
+- Neuvotella maksuehdoista ja toimitusajoista.
 
-Tausta: Mikko on innokas seuraamaan uusimpia teknologisia trendejä ja ostaa usein elektroniikkaa verkosta. Hän arvostaa yksityiskohtaisia tuotekuvauksia ja asiakasarvioita.​
+### 5 Sofia – Muotitietoinen opiskelija
+- Ikä: 22 vuotta​
+- Ammatti: Yliopisto-opiskelija​
+- Tausta: Sofia seuraa aktiivisesti muotitrendejä ja tekee usein vaateostoksia verkossa. Hän arvostaa käyttäjäystävällistä mobiilikokemusta ja nopeita toimituksia.​
 
-Tarpeet ja tavoitteet:
+#### Tarpeet ja tavoitteet:
+- Inspiroiva ja visuaalisesti miellyttävä käyttöliittymä.
+- Helppo pääsy uusimpiin muotituotteisiin ja trendeihin.
+- Nopeat ja edulliset toimitusvaihtoehdot.
 
-Pääsy kattaviin tuotetietoihin ja teknisiin spesifikaatioihin.
-
-Mahdollisuus lukea ja kirjoittaa tuotearvosteluja.
-
-Toimiva hakutoiminto ja suodatusmahdollisuudet.
-
-Haasteet:
-
-Varmistaa tuotteiden laatu ilman fyysistä tarkastelua.
-
-Löytää nopeasti haluamansa tuotteet suuresta valikoimasta.
-
-3
-Liisa – Satunnainen verkkokaupan käyttäjä
-
-Ikä: 45 vuotta​
-
-Ammatti: Opettaja​
-
-Tausta: Liisa tekee harvemmin verkko-ostoksia ja arvostaa selkeää opastusta sekä asiakaspalvelun saatavuutta. Hän ostaa pääasiassa vaatteita ja kodintarvikkeita.​
-
-Tarpeet ja tavoitteet:
-
-Yksinkertainen rekisteröitymis- ja tilausprosessi.
-
-Mahdollisuus ottaa helposti yhteyttä asiakaspalveluun.
-
-Selkeät palautus- ja toimitusehdot.
-
-Haasteet:
-
-Epävarmuus verkkokaupan käytöstä ja tietoturvasta.
-
-Tarve saada lisätietoa tuotteista ennen ostopäätöstä.
-
-4
-Kari – Yrittäjä ja tukkumyyjä
-
-Ikä: 38 vuotta​
-GitHub
-
-Ammatti: Kauppias​
-
-Tausta: Kari ostaa suuria määriä tuotteita yrityksensä tarpeisiin ja arvostaa alennuksia sekä joustavia maksuehtoja.​
-
-Tarpeet ja tavoitteet:
-
-Mahdollisuus tehdä suurtilauksia helposti.
-
-Tiedot tukkuhinnoista ja alennuksista.
-
-Kattavat toimitusvaihtoehdot ja aikataulut.
-
-Haasteet:
-
-Hallita suuria tilauksia ja varmistaa tuotteiden saatavuus.
-
-Neuvotella maksuehdoista ja toimitusajoista.
-
-5
-Sofia – Muotitietoinen opiskelija
-
-Ikä: 22 vuotta​
-
-Ammatti: Yliopisto-opiskelija​
-
-Tausta: Sofia seuraa aktiivisesti muotitrendejä ja tekee usein vaateostoksia verkossa. Hän arvostaa käyttäjäystävällistä mobiilikokemusta ja nopeita toimituksia.​
-
-Tarpeet ja tavoitteet:
-
-Inspiroiva ja visuaalisesti miellyttävä käyttöliittymä.
-
-Helppo pääsy uusimpiin muotituotteisiin ja trendeihin.
-
-Nopeat ja edulliset toimitusvaihtoehdot.
-
-Haasteet:
-
-Varmistaa tuotteiden koko ja istuvuus ilman sovitusta.
-
-Hallita opiskelijabudjettia ja löytää edullisia vaihtoehtoja.
+#### Haasteet:
+- Varmistaa tuotteiden koko ja istuvuus ilman sovitusta.
+- Hallita opiskelijabudjettia ja löytää edullisia vaihtoehtoja.
 
 
 ## 2. Käyttötapaukset ja käyttäjävirrat
 
-1
-Tuotteiden selaaminen ja haku
+### 1 Tuotteiden selaaminen ja haku
 
-Kuvaus: Käyttäjä voi selata tuotteita kategorioittain ja käyttää hakutoimintoa löytääkseen tiettyjä tuotteita.​
+#### Kuvaus: 
+Käyttäjä voi selata tuotteita kategorioittain ja käyttää hakutoimintoa löytääkseen tiettyjä tuotteita.​
 
-Esivaatimukset: Käyttäjä on verkkokaupan etusivulla.​
+#### Esivaatimukset: 
+Käyttäjä on verkkokaupan etusivulla.​
 
-Miten käyttäjä uiskentelee virran mukana ja käyttää tätä:
+#### Miten käyttäjä uiskentelee virran mukana ja käyttää tätä:
+- Käyttäjä valitsee haluamansa tuotekategorian tai syöttää hakusanan hakukenttään.
+- Järjestelmä näyttää vastaavat tuotteet listana.
+- Käyttäjä voi järjestää ja suodattaa tuotteita esimerkiksi hinnan tai arvostelujen perusteella.
 
-Käyttäjä valitsee haluamansa tuotekategorian tai syöttää hakusanan hakukenttään.
-
-Järjestelmä näyttää vastaavat tuotteet listana.
-
-Käyttäjä voi järjestää ja suodattaa tuotteita esimerkiksi hinnan tai arvostelujen perusteella.
-
-Poikkeukset:
-
+#### Poikkeukset:
 Jos hakutuloksia ei löydy, järjestelmä ilmoittaa asiasta ja ehdottaa vaihtoehtoisia tuotteita.
 
-2
-Tuotteen lisääminen ostoskoriin
+### 2 Tuotteen lisääminen ostoskoriin
 
-Kuvaus: Käyttäjä lisää haluamansa tuotteen ostoskoriin.​
+#### Kuvaus: 
+Käyttäjä lisää haluamansa tuotteen ostoskoriin.​
 
-Esivaatimukset: Käyttäjä on tuotteen tuotesivulla.​
+#### Esivaatimukset: 
+Käyttäjä on tuotteen tuotesivulla.​
 
-Miten käyttäjä uiskentelee virran mukana ja käyttää tätä:
+#### Miten käyttäjä uiskentelee virran mukana ja käyttää tätä:
+- Käyttäjä valitsee tuotteen määrän ja mahdolliset variaatiot (esim. koko, väri).
+- Käyttäjä klikkaa "Lisää ostoskoriin" -painiketta.
+- Järjestelmä vahvistaa tuotteen lisäyksen ostoskoriin ja päivittää ostoskorin sisällön.
 
-Käyttäjä valitsee tuotteen määrän ja mahdolliset variaatiot (esim. koko, väri).
-
-Käyttäjä klikkaa "Lisää ostoskoriin" -painiketta.
-
-Järjestelmä vahvistaa tuotteen lisäyksen ostoskoriin ja päivittää ostoskorin sisällön.
-
-Poikkeukset:
-
+#### Poikkeukset:
 Jos tuotetta ei ole varastossa, järjestelmä ilmoittaa asiasta eikä salli lisäystä ostoskoriin.
 
-3
-Ostoskoriin siirtyminen ja tilaaminen
+### 3 Ostoskoriin siirtyminen ja tilaaminen
 
-Kuvaus: Käyttäjä tarkastelee ostoskoriaan ja tekee tilauksen.​
+#### Kuvaus: 
+Käyttäjä tarkastelee ostoskoriaan ja tekee tilauksen.​
 
-Esivaatimukset: Käyttäjällä on tuotteita ostoskorissa.​
+#### Esivaatimukset: 
+Käyttäjällä on tuotteita ostoskorissa.​
 
-Miten käyttäjä uiskentelee virran mukana ja käyttää tätä:
+#### Miten käyttäjä uiskentelee virran mukana ja käyttää tätä:
+- Käyttäjä siirtyy ostoskoriin ja tarkistaa siellä olevat tuotteet.
+- Käyttäjä voi muokata tuotteiden määriä tai poistaa tuotteita.
+- Käyttäjä klikkaa "Siirry kassalle" -painiketta.
+- Käyttäjä syöttää toimitus- ja maksutiedot.
+- Käyttäjä vahvistaa tilauksen.
+- Järjestelmä käsittelee tilauksen ja näyttää vahvistusviestin.
 
-Käyttäjä siirtyy ostoskoriin ja tarkistaa siellä olevat tuotteet.
-
-Käyttäjä voi muokata tuotteiden määriä tai poistaa tuotteita.
-
-Käyttäjä klikkaa "Siirry kassalle" -painiketta.
-
-Käyttäjä syöttää toimitus- ja maksutiedot.
-
-Käyttäjä vahvistaa tilauksen.
-
-Järjestelmä käsittelee tilauksen ja näyttää vahvistusviestin.
-
-Poikkeukset:
-
+#### Poikkeukset:
 Jos maksutapahtuma epäonnistuu, järjestelmä ilmoittaa asiasta ja pyytää käyttäjää yrittämään uudelleen tai valitsemaan toisen maksutavan.
 
-4
-Käyttäjätilin luominen ja hallinta
+### 4 Käyttäjätilin luominen ja hallinta
 
-Kuvaus: Käyttäjä rekisteröityy palveluun ja hallinnoi omia tietojaan.​
+#### Kuvaus: 
+Käyttäjä rekisteröityy palveluun ja hallinnoi omia tietojaan.​
 
-Esivaatimukset: Käyttäjä ei ole vielä rekisteröitynyt palveluun.​
+#### Esivaatimukset: 
+Käyttäjä ei ole vielä rekisteröitynyt palveluun.​
 
-Miten käyttäjä uiskentelee virran mukana ja käyttää tätä:
+#### Miten käyttäjä uiskentelee virran mukana ja käyttää tätä:
+- Käyttäjä valitsee "Rekisteröidy" -vaihtoehdon.
+- Käyttäjä syöttää vaaditut tiedot (nimi, sähköposti, salasana).
+- Järjestelmä luo käyttäjätilin ja lähettää vahvistusviestin sähköpostiin.
+- Käyttäjä vahvistaa sähköpostiosoitteensa ja voi kirjautua sisään.
+- Sisäänkirjautuneena käyttäjä voi päivittää omia tietojaan, tarkastella tilaushistoriaa ja hallita toimitusosoitteita.
 
-Käyttäjä valitsee "Rekisteröidy" -vaihtoehdon.
-
-Käyttäjä syöttää vaaditut tiedot (nimi, sähköposti, salasana).
-
-Järjestelmä luo käyttäjätilin ja lähettää vahvistusviestin sähköpostiin.
-
-Käyttäjä vahvistaa sähköpostiosoitteensa ja voi kirjautua sisään.
-
-Sisäänkirjautuneena käyttäjä voi päivittää omia tietojaan, tarkastella tilaushistoriaa ja hallita toimitusosoitteita.
-
-Poikkeukset:
-
+#### Poikkeukset:
 Jos sähköpostiosoite on jo käytössä, järjestelmä ilmoittaa asiasta ja pyytää käyttäjää kirjautumaan sisään tai käyttämään toista sähköpostiosoitetta.
 
 
-5
-Tuotearvostelun kirjoittaminen ja lukeminen
+### 5 Tuotearvostelun kirjoittaminen ja lukeminen
 
-Kuvaus: Käyttäjä voi lukea muiden asiakkaiden jättämiä tuotearvosteluja ja kirjoittaa omia arvostelujaan.​
+#### Kuvaus: 
+Käyttäjä voi lukea muiden asiakkaiden jättämiä tuotearvosteluja ja kirjoittaa omia arvostelujaan.​
 
-Esivaatimukset: Käyttäjä on kirjautunut sisään ja on tuotteen tuotesivulla.​
+#### Esivaatimukset: 
+Käyttäjä on kirjautunut sisään ja on tuotteen tuotesivulla.​
 
-Miten käyttäjä uiskentelee virran mukana ja käyttää tätä:
-
-Käyttäjä selaa tuotesivulla olevia arvosteluja.
-
-Käyttäjä klikkaa "Kirjoita arvostelu" -painiketta.
+#### Miten käyttäjä uiskentelee virran mukana ja käyttää tätä:
+- Käyttäjä selaa tuotesivulla olevia arvosteluja.
+- Käyttäjä klikkaa "Kirjoita arvostelu" -painiketta.
 
 ## 3. Käyttöliittymän prototyypit
 
-(jos tähän piti lisätä kuvia niin pahoittelut, toivoisin mahdollisuutta lisätä jälkeenpäin jos vaikuttaa arviointiin)
+Noniin tässä on nopeasti figmalla tehdyt kuvat kolmesta tärkeimmästä näkymästä
 
-3.1 Etusivu sivu
-Tarkoitus: Tarjota yleiskatsaus verkkokaupan tarjonnasta ja helpottaa navigointia eri tuotekategorioihin.​
+![etusivu](kuvat/etusivu.png)
+![useampi tuote](kuvat/useatuote.png)
+![yksi tuote](kuvat/yksituote.png)
 
-Keskeiset elementit:
 
-Ylänavigointipalkki: Sisältää linkit tuotekategorioihin, hakutoiminnon, asiakaspalveluun ja käyttäjätiliin.​
+### 3.1 Etusivu sivu
 
-Pääbanneri: Esittelee ajankohtaisia kampanjoita tai suosittuja tuotteita.​
+#### Tarkoitus: 
+Tarjota yleiskatsaus verkkokaupan tarjonnasta ja helpottaa navigointia eri tuotekategorioihin.​
 
-Suositellut tuotteet: Dynaaminen osio, joka näyttää käyttäjän aiemman selaushistorian perusteella valittuja tuotteita.​
+#### Keskeiset elementit:
+- Ylänavigointipalkki: Sisältää linkit tuotekategorioihin, hakutoiminnon, asiakaspalveluun ja käyttäjätiliin.​
+- Pääbanneri: Esittelee ajankohtaisia kampanjoita tai suosittuja tuotteita.​
+- Suositellut tuotteet: Dynaaminen osio, joka näyttää käyttäjän aiemman selaushistorian perusteella valittuja tuotteita.​
+- Uutuudet ja tarjoukset: Korostaa uusia tuotteita ja erikoistarjouksia.​
 
-Uutuudet ja tarjoukset: Korostaa uusia tuotteita ja erikoistarjouksia.​
+### 3.2 Tuotekategoriat-sivu 
+#### Tarkoitus: 
+Mahdollistaa käyttäjälle tuotteiden selaamisen valitun kategorian mukaan.​
 
-3.2 Tuotekategoriat-sivu
-Tarkoitus: Mahdollistaa käyttäjälle tuotteiden selaamisen valitun kategorian mukaan.​
+#### Keskeiset elementit:
+- Sivupalkin suodattimet: Mahdollisuus suodattaa tuotteita esimerkiksi hinnan, merkin, arvostelujen ja muiden ominaisuuksien perusteella.​
+- Tuotelistaus: Näyttää valitun kategorian tuotteet ruudukkomuodossa, sisältäen tuotteen kuvan, nimen, hinnan ja lyhyen kuvauksen.​- Sivutus: Mahdollistaa suuren tuotevalikoiman selaamisen usealla sivulla.​
 
-Keskeiset elementit:
+### 3.3 Tuotesivu 
 
-Sivupalkin suodattimet: Mahdollisuus suodattaa tuotteita esimerkiksi hinnan, merkin, arvostelujen ja muiden ominaisuuksien perusteella.​
+#### Tarkoitus: 
+Tarjota yksityiskohtaiset tiedot yksittäisestä tuotteesta ja mahdollistaa sen lisääminen ostoskoriin.​
 
-Tuotelistaus: Näyttää valitun kategorian tuotteet ruudukkomuodossa, sisältäen tuotteen kuvan, nimen, hinnan ja lyhyen kuvauksen.​
+#### Keskeiset elementit:
+- Tuotekuvat: Useita korkealaatuisia kuvia tuotteesta eri kulmista.​
+- Tuotetiedot: Sisältää tuotteen nimen, hinnan, saatavuuden, yksityiskohtaisen kuvauksen ja tekniset tiedot.​
+- Arvostelut ja arviot: Käyttäjien jättämät arvostelut ja tähtiarviot tuotteesta.​
+- Ostoskoriin lisääminen: Selkeä painike tuotteen lisäämiseksi ostoskoriin sekä mahdollisuus valita määrä ja muut variaatiot (esim. koko, väri).​
 
-Sivutus: Mahdollistaa suuren tuotevalikoiman selaamisen usealla sivulla.​
+### 3.4 Ostoskori-sivu
 
-3.3 Tuotesivu
-Tarkoitus: Tarjota yksityiskohtaiset tiedot yksittäisestä tuotteesta ja mahdollistaa sen lisääminen ostoskoriin.​
+#### Tarkoitus: 
+Näyttää käyttäjälle ostoskoriin lisätyt tuotteet ja mahdollistaa tilauksen viimeistelyn.​
 
-Keskeiset elementit:
+#### Keskeiset elementit:
+- Tuotelistaus: Luettelo ostoskoriin lisätyistä tuotteista, sisältäen kuvan, nimen, hinnan, valitun määrän ja välisumman.​
+- Määrän muokkaus ja poistaminen: Mahdollisuus muuttaa tuotteiden määriä tai poistaa tuotteita ostoskorista.​
+- Yhteenveto: Näyttää kokonaissumman, mahdolliset alennukset ja arvioidut toimituskulut.​
+- Siirry kassalle -painike: Ohjaa käyttäjän kassasivulle tilauksen viimeistelemiseksi.​
 
-Tuotekuvat: Useita korkealaatuisia kuvia tuotteesta eri kulmista.​
+### 3.5 Kassasivu
 
-Tuotetiedot: Sisältää tuotteen nimen, hinnan, saatavuuden, yksityiskohtaisen kuvauksen ja tekniset tiedot.​
+#### Tarkoitus: 
+Kerätä tarvittavat tiedot tilauksen käsittelyä varten ja mahdollistaa maksun suorittaminen.​
 
-Arvostelut ja arviot: Käyttäjien jättämät arvostelut ja tähtiarviot tuotteesta.​
+#### Keskeiset elementit:
+- Toimitustiedot: Lomake, johon käyttäjä syöttää nimensä, osoitteensa ja yhteystietonsa.​
+- Maksutavat: Valikoima eri maksuvaihtoehtoja, kuten luottokortti, verkkopankki ja mobiilimaksut.​
+- Tilausyhteenveto: Kertaus tilauksen sisällöstä, hinnoista ja toimitustiedoista ennen maksun vahvistamista.​
+- Vahvista tilaus -painike: Suorittaa maksun ja lähettää tilauksen käsiteltäväksi.​
 
-Ostoskoriin lisääminen: Selkeä painike tuotteen lisäämiseksi ostoskoriin sekä mahdollisuus valita määrä ja muut variaatiot (esim. koko, väri).​
+### 3.6 Käyttäjätili-sivu
 
-3.4 Ostoskori-sivu
-Tarkoitus: Näyttää käyttäjälle ostoskoriin lisätyt tuotteet ja mahdollistaa tilauksen viimeistelyn.​
+#### Tarkoitus: 
+Tarjota käyttäjälle pääsy omiin tietoihinsa ja tilaushistoriaansa.​
 
-Keskeiset elementit:
-
-Tuotelistaus: Luettelo ostoskoriin lisätyistä tuotteista, sisältäen kuvan, nimen, hinnan, valitun määrän ja välisumman.​
-
-Määrän muokkaus ja poistaminen: Mahdollisuus muuttaa tuotteiden määriä tai poistaa tuotteita ostoskorista.​
-
-Yhteenveto: Näyttää kokonaissumman, mahdolliset alennukset ja arvioidut toimituskulut.​
-
-Siirry kassalle -painike: Ohjaa käyttäjän kassasivulle tilauksen viimeistelemiseksi.​
-
-3.5 Kassasivu
-Tarkoitus: Kerätä tarvittavat tiedot tilauksen käsittelyä varten ja mahdollistaa maksun suorittaminen.​
-
-Keskeiset elementit:
-
-Toimitustiedot: Lomake, johon käyttäjä syöttää nimensä, osoitteensa ja yhteystietonsa.​
-
-Maksutavat: Valikoima eri maksuvaihtoehtoja, kuten luottokortti, verkkopankki ja mobiilimaksut.​
-
-Tilausyhteenveto: Kertaus tilauksen sisällöstä, hinnoista ja toimitustiedoista ennen maksun vahvistamista.​
-
-Vahvista tilaus -painike: Suorittaa maksun ja lähettää tilauksen käsiteltäväksi.​
-
-3.6 Käyttäjätili-sivu
-Tarkoitus: Tarjota käyttäjälle pääsy omiin tietoihinsa ja tilaushistoriaansa.​
-
-Keskeiset elementit:
-
-Profiilitiedot: Mahdollisuus tarkastella ja päivittää henkilökohtaisia tietoja ja salasanaa.​
-
-Toimitusosoitteet: Hallinnoi tallennettuja osoitteita ja lisää uusia.
+#### Keskeiset elementit:
+- Profiilitiedot: Mahdollisuus tarkastella ja päivittää henkilökohtaisia tietoja ja salasanaa.​
+- Toimitusosoitteet: Hallinnoi tallennettuja osoitteita ja lisää uusia.
 
 ## 4. Tietoarkkitehtuuri ja tekninen suunnittelu
 
-Tähänkin jos olisi pitänyt lisätä kuvallinen suunnitelma niin annathan lisätä jälkeenpäin sillä ei ollut tiedossa jos tarvii kuvan
-
 Projekti toteutetaan PERN-stackilla ja se koostuu seuraavista teknologioista:​
-
-PostgreSQL: Relaatiotietokanta  vastaa sovelluksen tietojen tallennuksesta ja hallinnasta.​
-
-Express.js: Kevyt ja joustava Node.js-pohjainen web-sovelluskehys käsittelee palvelinpuolen logiikkaa ja reititystä.​
-
-React: Käyttöliittymäkirjasto mahdollistaa dynaamisten ja responsiivisten käyttöliittymien rakentamisen.​
-
-Node.js: Palvelinympäristö suorittaa JavaScript-koodia palvelinpuolella.​
-Theseus
+- PostgreSQL: Relaatiotietokanta  vastaa sovelluksen tietojen tallennuksesta ja hallinnasta.​
+- Express.js: Kevyt ja joustava Node.js-pohjainen web-sovelluskehys käsittelee palvelinpuolen logiikkaa ja reititystä.​
+- React: Käyttöliittymäkirjasto mahdollistaa dynaamisten ja responsiivisten käyttöliittymien rakentamisen.​
+- Node.js: Palvelinympäristö suorittaa JavaScript-koodia palvelinpuolella.​
 
 
-4.2 Tietokantarakenne
+### 4.2 Tietokantarakenne
 Sovelluksen tietokanta suunnitellaan normalisoiduksi relaatiotietokannaksi, joka koostuu seuraavista keskeisistä tauluista:​
-
-Käyttäjät (Users):
-
-user_id: Ensisijainen avain, yksilöllinen tunniste käyttäjälle.​
-
-nimi: Käyttäjän koko nimi.​
-
-sähköposti: Yksilöllinen sähköpostiosoite.​
-
-salasana: Salattu salasana.​
-
-luontipäivä: Tilin luontipäivämäärä.​
-
-Tuotteet (Products):
-
-product_id: Ensisijainen avain, yksilöllinen tunniste tuotteelle.​
-
-nimi: Tuotteen nimi.​
-
-kuvaus: Yksityiskohtainen kuvaus tuotteesta.​
-
-hinta: Tuotteen hinta.​
-
-varastomäärä: Saatavilla olevien tuotteiden määrä.​
-Theseus
-
-kategoria: Tuotteen kategoria.​
-
-
-Tilaukset (Orders):
-
-order_id: Ensisijainen avain, yksilöllinen tunniste tilaukselle.​
-
-user_id: Viiteavain, viittaa tilaajan käyttäjätiliin.​
-
-tilauspäivä: Päivämäärä, jolloin tilaus tehtiin.​
-
-kokonaishinta: Tilauksen kokonaishinta.​
-
-tila: Tilauksen nykyinen tila (esim. käsittelyssä, toimitettu).​
-
-
-Tilausrivit (Order_Items):
-
-order_item_id: Ensisijainen avain.​
-
-order_id: Viiteavain, viittaa tilaukseen.​
-
-product_id: Viiteavain, viittaa tilattuun tuotteeseen.​
-
-määrä: Tilatun tuotteen määrä.​
-
-hinta: Yksikköhinta tilaushetkellä.​
-
-
-Arvostelut (Reviews):
-
-review_id: Ensisijainen avain.​
-
-product_id: Viiteavain, viittaa arvosteltuun tuotteeseen.​
-
-user_id: Viiteavain, viittaa arvostelun kirjoittaneeseen käyttäjään.​
-
-
-Arvio: Arvosana (esim. 1–5 tähteä).​
-
-kommentti: Tekstimuotoinen arvostelu.​
-
-päivämäärä: Arvostelun jättöpäivämäärä.
+![kaavio](kuvat/kaavio.png)
 
 ## 5. Projektinhallinta ja käyttäjätestaus
 
-## 5. Projektinhallinta ja käyttäjätestaus
 
 Koska toteutan tämän yksin itsenäisesti, on tärkeää, että sekä projektinhallinta että käyttäjätestaus suunnitellaan niin, että ne tukevat itsenäistä työskentelyä, minimoivat virhemarginaalit ja varmistavat projektin laadukkaan etenemisen. Seuraavassa esitetään suunnitelma, jossa otetaan huomioon yksin työskentelyn haasteet ja mahdollisuudet.
 
